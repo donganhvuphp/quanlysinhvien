@@ -1,0 +1,7 @@
+B1 : cấu hình csdl 
+- tạo csdl 
+- tạo bảng student
+
+B2 : tạo dự án php
+- Xây dựng giao diện html
+- DBhelper -- Cấu hình và lệnh thao tác csdl --> common
